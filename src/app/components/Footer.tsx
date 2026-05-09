@@ -46,7 +46,7 @@ export default function Footer() {
           <p className="mb-4">
             Subscribe to our newsletter for the latest updates, deals, and offers.
           </p>
-          <form action="#" method="POST" className="flex flex sm:flex-row justify-center items-center">
+          <form action="#" method="POST" className="flex sm:flex-row justify-end items-center mr-10">
             <input
               type="email"
               placeholder="Enter your email"
@@ -68,15 +68,15 @@ export default function Footer() {
           <p className="mb-4">
             Have questions? Reach out to us at:
           </p>
-          <p>Email: support@gadgetstore.com</p>
-          <p>Phone: 0808 818 6853</p>
+          <p>Email:Chidiokwu795@gmail.com</p>
+          <p>Phone: 08079379510</p>
         </div>
       </div>
 
       {/* Footer Bottom */}
       <div className="py-4 mt-10 text-center" style={{ backgroundColor: "#0f172a" }}>
         <p className="text-sm" style={{ color: "#cbd5e1" }}>
-          &copy; 2025 PelumiKadeba10@github. All rights reserved.
+          &copy; 2026 Vertex vault tech Company. All rights reserved.
         </p>
       </div>
     </footer>
